@@ -1,0 +1,1 @@
+If you downloaded the MundoTeam_Core from the MundoTeam github page, It failed when you tried compiling the source as it was missing a files, I have added the missing files which are all the folder/files in this test directory.
